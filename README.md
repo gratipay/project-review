@@ -1,1 +1,1 @@
-[Go Review Applications!](https://github.com/gratipay/applications/issues)
+[Go review team applications!](https://github.com/gratipay/applications/issues)
