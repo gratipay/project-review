@@ -1,2 +1,1 @@
-# review
-Team review queue
+[Go Review Applications!](https://github.com/gratipay/applications/issues)
