@@ -11,4 +11,4 @@ and then [dive in](https://github.com/gratipay/applications/issues)!
 
 **Approving or Rejecting Teams** Once a decision has been made in the application issue, Gratipay contributors with admin access can modify the team status attribute on the team page.
 
-![Approve a team](https://github.com/gratipay/team-review/blob/mattbk-patch-2/team-approve.png)
+![Approve a team](https://github.com/gratipay/team-review/blob/master/team-approve.png)
