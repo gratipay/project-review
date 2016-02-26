@@ -8,3 +8,5 @@ Teams](https://gratipay.com/) for examples of both accepted and rejected applica
 
 **Want to help review applications?** Read the [docs](https://inside.gratipay.com/howto/review-teams), 
 and then [dive in](https://github.com/gratipay/applications/issues)!
+
+**Approving or Rejecting Teams** Once a decision has been made in the application issue, Gratipay contributors with admin access can modify the team status attribute on the team page.
